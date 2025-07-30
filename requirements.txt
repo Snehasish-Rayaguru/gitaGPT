@@ -1,0 +1,12 @@
+langchain>=0.1.14
+faiss-cpu
+sentence-transformers
+openai
+tiktoken
+python-dotenv
+transformers
+accelerate
+groq
+streamlit
+gTTS
+playsound
